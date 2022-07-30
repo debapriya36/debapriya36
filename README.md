@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Debapriya Chandra</h1>
-![](https://komarev.com/ghpvc/?username=debapriya36&label=PROFILE+VIEWS)
+
 <h3 align="center">IT sophomore who loves doing Competitive Programming and Passionate about Frontend Development</h3>
+
+![](https://komarev.com/ghpvc/?username=debapriya36&color=green)
 
 - 🌱 I’m currently learning **ReacJs,NodeJs,SCSS**
 
