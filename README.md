@@ -2,7 +2,7 @@
 
 <h3 align="center">IT sophomore who loves doing Competitive Programming and Passionate about Frontend Development</h3>
 
-![](https://komarev.com/ghpvc/?username=debapriya36&color=green)
+![](https://komarev.com/ghpvc/?username=debapriya36&color=ff69b4)
 
 - 🌱 I’m currently learning **ReacJs,NodeJs,SCSS**
 
