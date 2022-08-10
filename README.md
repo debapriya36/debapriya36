@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1OuGT9HIFuime32h60m8WQ_vJ6w0-3DOa?usp=sharing](https://drive.google.com/drive/folders/1OuGT9HIFuime32h60m8WQ_vJ6w0-3DOa?usp=sharing)
 
-- ⚡ Fun fact : You Know Nothing, Jon Snow :)
+- ⚡ Fun fact : My real name is Aegon Targaryen😉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
