@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=debapriya36&color=ff69b4)
 
-- 🌱 I’m currently learning **ReacJs,NodeJs,SCSS**
+- 🌱 I’m currently learning **MongoDB,NodeJs,ExpressJS**
 
 - 📫 How to reach me **debapriyachandra03@gmail.com**
 
