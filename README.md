@@ -2,7 +2,7 @@
 
 <h3 align="center">IT undergrad who loves doing Competitive Programming and Passionate about MERN stack web development <3 </h3>
 
-![](https://komarev.com/ghpvc/?username=debapriya36&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=debapriya36&color=000000)
 
 - 🌱 I’m currently learning **MongoDB,NodeJs,ExpressJS**
 
