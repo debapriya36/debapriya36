@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debapriya Chandra</h1>
-<h3 align="center">IT Undergraduate, who loves solving problems and passionate about Full Stack Web Development</h3>
+<h3 align="center">IT Undergraduate, who loves solving problems and is passionate about Full Stack Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debapriya36&label=Profile%20views&color=0e75b6&style=flat" alt="debapriya36" /> </p>
 
