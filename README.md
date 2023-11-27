@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **My Real Name is Aegon Targaryen**
 
+-  Currently Learning **Go**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/debapriya-chandra-126114201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debapriya-chandra-126114201" height="30" width="40" /></a>
